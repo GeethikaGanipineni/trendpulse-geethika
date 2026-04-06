@@ -1,0 +1,106 @@
+post_id,title,category,score,num_comments,author,collected_at
+47655408,Show HN: I built a tiny LLM to demystify how language models work,technology,409,34,armanified,2026-04-06T14:17:44.639480
+47652561,Gemma 4 on iPhone,others,614,162,janandonly,2026-04-06T14:17:46.055988
+47656622,An open-source 240-antenna array to bounce signals off the Moon,others,91,12,hillcrestenigma,2026-04-06T14:17:47.919553
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,87,36,keepamovin,2026-04-06T14:17:49.972223
+47651703,Microsoft hasn't had a coherent GUI strategy since Petzold,others,411,236,naves,2026-04-06T14:17:51.687799
+47658146,France pulls last gold held in US for $15B gain,technology,25,13,teleforce,2026-04-06T14:17:53.653447
+47637116,"Signals, the push-pull based algorithm",others,37,11,mpweiher,2026-04-06T14:17:55.329514
+47637377,LÖVE: 2D Game Framework for Lua,sports,292,117,cl3misch,2026-04-06T14:17:57.339255
+47655392,Show HN: I made a YouTube search form with advanced filters,entertainment,214,134,nevernothing,2026-04-06T14:18:00.333610
+47655367,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",technology,71,14,ikessler,2026-04-06T14:18:02.257858
+47652007,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",technology,72,3,karimf,2026-04-06T14:18:03.999038
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,56,16,salt4034,2026-04-06T14:18:05.838097
+47613827,One ant for $220: The new frontier of wildlife trafficking,others,23,0,gmays,2026-04-06T14:18:07.501758
+47636456,Sheets Spreadsheets in Your Terminal,others,64,11,_____k,2026-04-06T14:18:09.524799
+47652400,Why Switzerland has 25 Gbit internet and America doesn't,others,456,348,sschueller,2026-04-06T14:18:11.292165
+47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,technology,265,65,vbtechguy,2026-04-06T14:18:13.021407
+47656981,"Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",technology,11,1,stevebmark,2026-04-06T14:18:14.975050
+47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",entertainment,44,9,mohshomis,2026-04-06T14:18:16.650596
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,technology,203,102,thisislife2,2026-04-06T14:18:18.639574
+47655905,Usenet Archives,others,39,10,myth_drannon,2026-04-06T14:18:20.583952
+47656335,Does coding with LLMs mean more microservices?,technology,19,2,jer0me,2026-04-06T14:18:22.733744
+47652322,Music for Programming,entertainment,184,77,merusame,2026-04-06T14:18:24.369372
+47656659,Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice,technology,132,44,MoltenMonster,2026-04-06T14:18:26.009446
+47650312,A tail-call interpreter in (nightly) Rust,technology,157,36,g0xA52A2A,2026-04-06T14:18:27.919863
+47648828,"Eight years of wanting, three months of building with AI",technology,770,231,brilee,2026-04-06T14:18:29.798873
+47650502,Computational Physics (2nd Edition) (2025),science,136,19,teleforce,2026-04-06T14:18:31.435089
+47647455,Caveman: Why use many token when few token do trick,others,759,334,tosh,2026-04-06T14:18:33.178832
+47649721,Artemis II crew see first glimpse of far side of Moon [video],others,477,364,mooreds,2026-04-06T14:18:34.920080
+47654171,The Mechanics of Steins Gate (2023) [pdf],others,78,14,Ariarule,2026-04-06T14:18:36.865699
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,technology,185,25,desideratum,2026-04-06T14:18:38.605618
+47654620,"In Japan, the robot isn't coming for your job; it's filling the one nobody wants",others,163,195,rbanffy,2026-04-06T14:18:40.250964
+47648048,Friendica – A Decentralized Social Network,others,147,51,janandonly,2026-04-06T14:18:41.879717
+47655978,Stamp It: All programs must report their version,others,11,1,gurjeet,2026-04-06T14:18:43.647250
+47652442,OpenJDK: Panama,others,54,13,tosh,2026-04-06T14:18:45.467100
+47656758,"Make your own ColecoVision at home, part 5",others,5,0,classichasclass,2026-04-06T14:18:47.552920
+47649113,Finnish sauna heat exposure induces stronger immune cell than cytokine responses,others,356,233,Growtika,2026-04-06T14:18:49.504248
+47653589,Women were never meant to give birth on their backs,others,41,5,ilt,2026-04-06T14:18:51.377351
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,866,576,zaikunzhang,2026-04-06T14:18:53.146541
+47612331,Baby's Second Garbage Collector,others,60,16,matheusmoreira,2026-04-06T14:18:55.096049
+47655721,LLMs can't justify their answers–this CLI forces them to,technology,11,9,volatilityfund,2026-04-06T14:18:57.037148
+47657652,China fell for a lobster: What an AI assistant tells us about Beijing's ambition,technology,10,0,tmoravec,2026-04-06T14:18:58.778173
+47613272,Tracing Goroutines in Realtime with eBPF,others,75,9,darccio,2026-04-06T14:19:00.538046
+47654317,My university uses prompt injection to catch cheaters,others,20,5,varun_ch,2026-04-06T14:19:02.385436
+47655058,OpenAI's fall from grace as investors race to Anthropic,technology,151,104,1vuio0pswjnm7,2026-04-06T14:19:04.512462
+47648499,Hightouch (YC S19) Is Hiring,others,1,0,joshwget,2026-04-06T14:19:06.766956
+47640728,Show HN: A game where you build a GPU,technology,911,178,Jaso1024,2026-04-06T14:19:08.607077
+47607408,Scientists Figured Out How Eels Reproduce (2022),others,116,22,thunderbong,2026-04-06T14:19:10.451790
+47637077,Scientists mapped all the nerves of the clitoris for the first time,others,34,6,01-_-,2026-04-06T14:19:12.805244
+47651479,From birds to brains: My path to the fusiform face area (2024),technology,35,0,everbody,2026-04-06T14:19:14.477335
+47652324,LibreOffice – Let's put an end to the speculation,others,176,106,eisa01,2026-04-06T14:19:16.289279
+47655078,Show HN: Mdarena – Benchmark your Claude.md against your own PRs,technology,16,2,hudsongr,2026-04-06T14:19:23.149675
+47657198,Scientists found a protein that drives brain aging – and how to stop it,technology,11,3,mikhael,2026-04-06T14:19:24.992780
+47652549,Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter,technology,40,15,alvivanco,2026-04-06T14:19:27.042726
+47636765,Endian wars and anti-portability: this again?,technology,44,49,awilfox,2026-04-06T14:19:32.370012
+47646504,Show HN: OsintRadar – Curated directory for osint tools,entertainment,71,7,lexalizer,2026-04-06T14:19:37.486491
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,technology,504,231,naves,2026-04-06T14:19:39.265828
+47655480,Make Humans Analog Again,technology,6,0,muunbo,2026-04-06T14:19:49.159511
+47645025,Show HN: Contrapunk – Real-time counterpoint harmony from guitar input,entertainment,112,49,waveywaves,2026-04-06T14:19:51.004198
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,entertainment,160,26,laszlokorte,2026-04-06T14:19:52.852034
+47648404,My Google Workspace account suspension,science,346,200,zenincognito,2026-04-06T14:19:54.792806
+47655155,'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains,technology,37,7,mikhael,2026-04-06T14:19:56.532465
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,technology,1077,817,firloop,2026-04-06T14:20:02.199524
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,47,15,zdw,2026-04-06T14:20:03.801061
+47613118,Show HN: I built a small app for FSI German Course,entertainment,50,15,syedmsawaid,2026-04-06T14:20:38.137481
+47653036,Satellite firm Planet Labs to indefinitely withold Iran war imagery,worldnews,38,9,anigbrowl,2026-04-06T14:20:49.372332
+47629485,A case study in testing with 100+ Claude agents in parallel,science,63,49,thejash,2026-04-06T14:21:08.827793
+47639303,"Show HN: I made open source, zero power PCB hackathon badges",entertainment,154,16,kaipereira,2026-04-06T14:21:28.488566
+47625952,Show HN: I built a frontpage for personal blogs,entertainment,769,193,ramkarthikk,2026-04-06T14:21:30.252168
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,216,143,pseudolus,2026-04-06T14:21:57.566648
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,24,4,andsoitis,2026-04-06T14:22:05.557659
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,entertainment,162,6,teamchong,2026-04-06T14:22:30.746721
+47611993,VR Realizes the Cyberspace Metaphor,science,17,17,dryadin,2026-04-06T14:22:34.842121
+47650894,"Show HN: Gecit – DPI bypass using eBPF sock_ops, no proxy or VPN",entertainment,7,1,boratanrikulu,2026-04-06T14:22:44.249027
+47645817,How Pope Leo is pushing back on divine justification of war,worldnews,73,40,1659447091,2026-04-06T14:22:59.416205
+47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,entertainment,545,181,detaro,2026-04-06T14:23:27.375036
+47641615,Sopwith – 1984 Game (2000),sports,97,42,elvis70,2026-04-06T14:23:33.210867
+47650273,"Meta, Google under attack as court cases bypass 30-year-old legal shield",worldnews,17,9,1vuio0pswjnm7,2026-04-06T14:23:35.264067
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,61,angst,2026-04-06T14:23:42.427255
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,589,207,pretext,2026-04-06T14:23:44.122717
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,781,365,hkmaxpro,2026-04-06T14:23:47.770009
+47648593,Show HN: Beautiful intuitive weather forecasts that don't rely on numbers/units,entertainment,3,8,Leftium,2026-04-06T14:24:17.472503
+47626598,Show HN: ctx – an Agentic Development Environment (ADE),entertainment,52,52,luca-ctx,2026-04-06T14:24:49.380746
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",entertainment,152,118,kasparnoor,2026-04-06T14:24:56.668112
+47643637,Show HN: Dev Personality Test,entertainment,13,3,4m1rk,2026-04-06T14:24:58.613421
+47630109,Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M,entertainment,193,75,MaximilianEmel,2026-04-06T14:25:02.504272
+47642275,"Netflix must refund customers for years of price hikes, Italian court rules",entertainment,63,6,xbmcuser,2026-04-06T14:25:09.780917
+47653816,UK intelligence censored report on global warming and homeland security,worldnews,93,49,ewidar,2026-04-06T14:25:15.348757
+47640770,Show HN: DocMason – Agent Knowledge Base for local complex office files,entertainment,11,0,Jet_Xu,2026-04-06T14:25:26.891444
+47604155,SpaceX files to go public,science,398,576,nutjob2,2026-04-06T14:25:34.245961
+47621438,Show HN: Made a little Artemis II tracker,entertainment,153,58,codingmoh,2026-04-06T14:25:47.663818
+47638532,"Show HN: Ownscribe – local meeting transcription, summarization and search",entertainment,15,0,paberr,2026-04-06T14:26:05.172825
+47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,296,148,Growtika,2026-04-06T14:26:06.973777
+47632692,Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion,entertainment,23,14,slp3r,2026-04-06T14:26:25.242953
+47631030,Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment,entertainment,37,23,sagirodin,2026-04-06T14:26:30.976234
+47643580,Show HN: Uncompressed – Self-hosted Netflix alternative at 60 Mbps instead of 15,entertainment,7,0,lackoftactics,2026-04-06T14:26:49.926056
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",entertainment,900,432,novaRom,2026-04-06T14:26:52.281837
+47651019,PS3 emulator makes Cell CPU breakthrough that improves performance in all games,sports,8,0,gloxkiqcza,2026-04-06T14:27:22.078594
+47618221,The Australian government has announced gambling advertising reforms,worldnews,133,101,gostsamo,2026-04-06T14:29:19.073231
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,40,6,ruevs,2026-04-06T14:29:20.684512
+47645926,The Spaceballs sequel will be released in April next year,science,8,1,WaitWaitWha,2026-04-06T14:29:22.603368
+47645240,SpaceX Pushes Back Crucial Starship Test Launch,science,14,10,bookmtn,2026-04-06T14:29:59.570129
+47654226,Trump proposes steep cut to NASA budget as astronauts head for the Moon,science,8,0,rbanffy,2026-04-06T14:30:12.517456
+47638085,I attacked myself with Google Spreadsheets (2012),worldnews,3,1,downbad_,2026-04-06T14:30:37.661051
+47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,86,120,vrganj,2026-04-06T14:32:50.781418
+47624879,Switzerland hosts 'CERN of semiconductor research',science,34,6,teleforce,2026-04-06T14:33:30.206561
